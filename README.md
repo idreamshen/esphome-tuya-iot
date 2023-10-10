@@ -1,3 +1,5 @@
+## use [hzkincony/esphome-tuya-iot](https://github.com/hzkincony/esphome-tuya-iot)
+
 # esphome-tuya-iot
 
 ```yaml
